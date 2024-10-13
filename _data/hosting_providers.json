@@ -2640,6 +2640,16 @@
     "note": ""
   },
   {
+    "name": "fullnet.pl",
+    "link": "https://fullnet.pl",
+    "category": "full",
+    "tutorial": "https://www.fullnet.pl/knowledgebase/7/Automatyczny-Certyfikat-Letandsharp039s-Encrypt-na-naszym-Hostingu.html",
+    "announcement": "https://www.fullnet.pl/announcements/7/Automatyczny-SSL-od-Lets-Encrypt-na-naszym-hostingu.html",
+    "plan": "https://www.fullnet.pl/tani-hosting.php",
+    "reviewed": "2024.10.13",
+    "note": "Website in Polish. Free and automatic SSL for all plans"
+  },
+  {
     "name": "nazwa.pl",
     "link": "https://nazwa.pl/",
     "category": "no",
